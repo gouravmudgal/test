@@ -1,0 +1,42 @@
+[33mcommit 68ceb1917f8642547883fa33fa265496b1ebf267[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Gourav Mudgal <gourav.mudgal@gmail.com>
+Date:   Fri Jan 24 22:03:15 2020 +0530
+
+    added one more file
+
+[33mcommit 6e45a98e6d262274a174c052824844ab186eee09[m[33m ([m[1;33mtag: v1.0[m[33m)[m
+Author: Gourav Mudgal <gourav.mudgal@gmail.com>
+Date:   Fri Jan 17 22:47:18 2020 +0530
+
+    added git ignore file
+
+[33mcommit 5b260bee41423e65c35d463a261d56f7196cb913[m
+Merge: cb17afc c954fb7
+Author: Gourav Mudgal <gourav.mudgal@gmail.com>
+Date:   Fri Jan 17 22:44:59 2020 +0530
+
+    keeping master changes
+
+[33mcommit c954fb7f1a33bbfec57f486b90000c122e38c58c[m
+Author: Gourav Mudgal <gourav.mudgal@gmail.com>
+Date:   Fri Jan 17 22:40:52 2020 +0530
+
+    changed in auto
+
+[33mcommit cb17afc1653423078ab0cb7768c570870df92e6a[m
+Author: Gourav Mudgal <gourav.mudgal@gmail.com>
+Date:   Fri Jan 17 22:40:17 2020 +0530
+
+    changed
+
+[33mcommit c5078214fea4e5ca347616e455781d6defead40b[m
+Author: Gourav Mudgal <gourav.mudgal@gmail.com>
+Date:   Fri Jan 17 22:32:21 2020 +0530
+
+    changed test file
+
+[33mcommit f9c80705545fb06af8148d1f8ad162fcc6012cf7[m
+Author: Gourav Mudgal <gourav.mudgal@gmail.com>
+Date:   Fri Jan 17 22:29:49 2020 +0530
+
+    2 files added
